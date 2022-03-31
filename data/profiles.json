@@ -1,0 +1,11 @@
+{
+    "main": {
+        "prefix": "-",
+        "name": "Aidan's Bots",
+        "other": "All Other Bots",
+        "pfp": "https://cdn.discordapp.com/attachments/929763625994977311/958081291587305492/0114af390d8025ea18c9f5abfae0e460.png",
+        "isbeta": false,
+        "desc": "I am the best bot ever, all of my commands are currently wip so you know i am good!",
+        "gameactivity": "The best bot eva!"
+    }
+}
