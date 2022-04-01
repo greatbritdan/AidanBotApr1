@@ -1,5 +1,5 @@
 import os
-from notaidanbot import os NotAidanBot
+from notaidanbot import NotAidanBot
 
 def main():
 	client = NotAidanBot()
